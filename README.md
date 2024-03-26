@@ -17,7 +17,7 @@ After researching historical portfolio performance, I worked with both the mean 
 While the S&P 500 returns have the greatest spread, this set of returns also has the highest return rate.
 As you shift from aggressive down to moderate, the distribution tightens, but the average return rate also decreases. The conservative investment will be the most predictable, but have the lowest average return.
 
-[Rate Distributions](./Images/FutureReturnsDistribution.jpg)
+![Rate Distributions](./Images/FutureReturnsDistribution.jpg)
 
 ### Research Source:
 https://www.sciencedirect.com/science/article/pii/S2405473915000331
