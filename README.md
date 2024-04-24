@@ -44,6 +44,6 @@ This retirement simulator is meant to display the inherent variability of invest
 
 This is still a work in progress.  Stay tuned!
 
-<img src="Images/SValue_printout.png" width="214" height= "43">
+<img src="Images/Value_printout.png" width="214" height= "43">
 
 ![Retirement Simulation](./Images/PlotlyForecast.jpg)
