@@ -17,7 +17,12 @@ After researching historical portfolio performance, I worked with both the mean 
 While the S&P 500 returns have the greatest spread, this set of returns also has the highest return rate.
 As you shift from aggressive down to moderate, the distribution tightens, but the average return rate also decreases. The conservative investment will be the most predictable, but have the lowest average return.
 
-![Rate Distributions and Statistics](./Images/FutureReturnsDist_Stats.jpg)
+![Rate Distributions](./Images/FutureReturnsDistribution.jpg)
+
+**Return Rate Statistics**
+After fine tuning my forecasted investment returns, I rand a statistical analysis to validate my results across historical trends.  Note that more aggressive returns will have a wider confidence level, created by the increased votility. Aggressive investors will see a greater return over a long investment window, but this higher return does come with an added risk.
+
+![Return Statistics](./Images/InvestmentReturnStatistics.png)
 
 ### Sources:
 [Stock Market Performance](https://www.sciencedirect.com/science/article/pii/S2405473915000331) <br>
