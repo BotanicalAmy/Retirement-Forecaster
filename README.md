@@ -22,7 +22,7 @@ As you shift from aggressive down to moderate, the distribution tightens, but th
 **Return Rate Statistics**
 After fine tuning my forecasted investment returns, I rand a statistical analysis to validate my results across historical trends.  Note that more aggressive returns will have a wider confidence level, created by the increased votility. Aggressive investors will see a greater return over a long investment window, but this higher return does come with an added risk.
 
-<img src="InvestmentReturnStatistics.png" width="670" height= "211">
+<img src="Images/InvestmentReturnStatistics.png" width="670" height= "211">
 
 ### Sources:
 [Stock Market Performance](https://www.sciencedirect.com/science/article/pii/S2405473915000331) <br>
