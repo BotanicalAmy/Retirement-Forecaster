@@ -19,6 +19,22 @@ As you shift from aggressive down to moderate, the distribution tightens, but th
 
 ![Rate Distributions](./Images/FutureReturnsDistribution.jpg)
 
-### Research Source:
-https://www.sciencedirect.com/science/article/pii/S2405473915000331
-I used this article, in addition to working with a local wealth management firm to compare this hypothetical future performance to industry expectations.
+### Sources:
+[Stock Market Performance](https://www.sciencedirect.com/science/article/pii/S2405473915000331) <br>
+I analyzed historical stock trends and consulted with a local wealth management firm to compare this hypothetical future performance to industry expectations.
+
+## A random walk through probability
+
+The random walk theory claims that stock prices are not influenced by history, but rather a random walk that follows an upward slope. Additionally, the Black-Scholes/Merton equation explores the probability distribution of the markets in great depth, focusing on the correlation between brownian motion and the probability distrubtion found in finances.
+
+I investigated the directions of change (derivatives) from 1928 to 2023, and found that the expected distribution resulted in 41 years with an increase in rate of return, and 52 years of decrease. Looking at the visual of my analysis, the stock market was positive for 70 of the 96 years surveyed, and negative for 26 of those years.
+
+The goal of this retirement simulator is to simulate the same patterns found in the historical stock market to forecast the probable distribution of future returns. <br><br>
+
+<img src="Images/StockPatterns.jpg" width="900" height="610">
+
+### Sources:
+[Random Walk](https://www.sciencedirect.com/science/article/pii/S2405473915000331) <br>
+[Black-Scholes/Merton Equation](https://www.youtube.com/watch?v=A5w-dEgIU1M)
+
+*I can calculate the motion of heavenly bodies, but not the madness of people.” — Sir Isaac Newton.*
