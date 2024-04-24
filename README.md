@@ -38,3 +38,10 @@ The goal of this retirement simulator is to simulate the same patterns found in 
 [Black-Scholes/Merton Equation](https://www.youtube.com/watch?v=A5w-dEgIU1M)
 
 *I can calculate the motion of heavenly bodies, but not the madness of people.” — Sir Isaac Newton.*
+
+## Visualizing variability
+This retirement simulator is meant to display the inherent variability of investing. Each entry into the retirement simulator will return 5 sample distributions, show an average rate of return for the most recent forecast, in addition to high and low ends of the distribution.
+
+This is still a work in progress.  Stay tuned!
+
+![Retirement Simulation](./Images/ForecastExample.jpg)
