@@ -46,4 +46,4 @@ This is still a work in progress.  Stay tuned!
 
 <img src="Images/Value_printout.png" width="428" height= "86">
 
-![Retirement Simulation](./Images/PlotlyForecast.jpg)
+![Retirement Simulation](./Images/PlotlyForecastEx.jpg)
