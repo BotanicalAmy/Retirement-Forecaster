@@ -60,7 +60,7 @@ In this retirement forecasting method, machine learning is used to analyze this 
 
 *The current prediction model is embedded in the Jupyter Notebook, but will be utilized in a Streamlit app for easier use in the future.*
 
-<img src="Images/Retirement_Prediction.jpg" width="800" height= "220">
+<img src="Images/Retirement_Prediction.jpg" width="640" height= "176">
 
 Below is a visual showing the data used in the machine learning model.  Note that the more aggressive the investor, the wider the range of variability (shaded bands).  Additionally, despite the nervous investor pulling from the same return table as the aggressive investor, they see the worst portfolio performance. The nervous investor is taught by the model to pull out of the market for 3 years every time the market has negative returns, resulting in poor returns.
 
