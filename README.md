@@ -1,9 +1,7 @@
 # Retirement_Forecasting
-The goal of this data project is to create a retirement simulator to see the effects of portfolio investments that are fully invested in the stock market, aggressively invested, moderately invested or conservatively invested.
+The goal of this data project is to create a retirement simulator to see the effects of portfolio investments that are fully invested in the stock market, aggressively invested, moderately invested or conservatively invested. This idea came from a retirement simulator that I built in excel. A local financial planning firm had a business use case for a data application that helped visualize the impacts of investment choices. The mathematical methods and functions created in this notebook were converted to a Streamlit based data application.
 
-This idea came from a retirement simulator that I built in excel.
-
-The included Jupyter notebook shows the coding utilized to create a database of future return rates for the stock market, including a series of managed portfolios (aggressive, moderate and conservative).
+[Retirement Simulator Data Application](https://retirement-simulator.streamlit.app/)
 
 ## Stock Market Data
 The stock market returns came from the Sterns school of business, and included a range of historical market values, including T-Bills, Real Estate and Gold.  My analysis focused on market returns
@@ -57,8 +55,6 @@ The retirement simulator function was utilized to generate 10,000 hypothetical i
 
 ### Predicting the Future
 In this retirement forecasting method, machine learning is used to analyze this large volume of hypothetical returns to predict a future retirement value based on the user inputs. Rather than a series of samples, the user sees a final, most probable forecast.
-
-*The current prediction model is embedded in the Jupyter Notebook, but will be utilized in a Streamlit app for easier use in the future.*
 
 <img src="Images/Retirement_Prediction.jpg" width="640" height= "176">
 
