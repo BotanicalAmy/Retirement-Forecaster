@@ -1,5 +1,5 @@
 # Retirement Forecasting
-The goal of this data project is to create a retirement simulator to see the effects of portfolio investments that are fully invested in the stock market, aggressively invested, moderately invested or conservatively invested. This idea came from a retirement simulator that I built in excel. A local financial planning firm had a business use case for a data application that helped visualize the impacts of investment choices. The mathematical methods and functions created in this notebook were converted to a Streamlit based data application.
+The goal of this data project was to create a retirement simulator to see the effects of portfolio investments that are fully invested in the stock market, aggressively invested, moderately invested or conservatively invested. A local wealth management firm had a business use case for a data application that helped visualize the impacts of investment choices. The mathematical methods and functions created in this notebook were converted to a Streamlit based data application.
 
 [Retirement Simulator Data Application](https://retirement-simulator.streamlit.app/)
 
