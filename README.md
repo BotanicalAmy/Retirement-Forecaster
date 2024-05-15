@@ -53,11 +53,14 @@ The retirement simulator function was utilized to generate 10,000 hypothetical i
 *Modeling:* Linear regression, ridge regression, and KNN were the machine learning models tested. A grid search was set up to optimize the parameters for each model.
 *Cross-validation:* After assessing the model performance, the KNN model proved to be the best predictor of retirement values. The KNN model was implemented to create predictions.
 
-### Predicting the Future
-In this retirement forecasting method, machine learning analyzes a large volume of hypothetical returns to predict a future retirement value based on user inputs. Rather than a series of samples, the user sees a final, most probable forecast.
+### Forecasting the Future
+In this retirement forecasting method, machine learning analyzes 10,000 hypothetical returns to predict a future retirement value based on user inputs. Rather than a series of scenarios, the user sees a final, most probable forecast.
 
 <img src="Images/Retirement_Prediction.jpg" width="640" height= "176">
 
 Below is a visual showing the data used in the machine-learning model.  Note that the more aggressive the investor, the wider the range of variability (shaded bands).  Additionally, despite the nervous investors pulling from the same return table as the aggressive investors, they see the worst portfolio performance. The model teaches the nervous investor to pull out of the market for 3 years every time the market has negative returns, resulting in poor returns.
 
 ![Retirement Forecast](./Images/Years_value_by_investor.jpg)
+
+## Next Steps
+The final data application in Streamlit has some limitations. A full-stack data application could be created in Flask or Django to allow for greater customization or a user login that allows a subscribed member to save their information. Additionally, the machine learning data could be expanded to include annual contributions, rather than just initial values.
